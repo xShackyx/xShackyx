@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Matteo and I am a front-end developer!  
 
-<img align="right" alt="img" src="https://github.com/xShackyx/xShackyx/dont.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/xShackyx/xShackyx/blob/main/dont.jpg" width="30%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
